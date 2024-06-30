@@ -84,7 +84,7 @@ This script helps you keep your following list up to date by unfollowing users w
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
