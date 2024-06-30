@@ -29,6 +29,8 @@ Perfect for maintaining a streamlined and relevant network on GitHub! This scrip
 - **Easy Setup:** Simple configuration with a `.env` file.
 - **Cross-Platform:** Works on Unix-like systems and Windows.
 
+<br>
+
 ## 📦 Installation
 
 1. Clone the repository:
@@ -55,8 +57,12 @@ Perfect for maintaining a streamlined and relevant network on GitHub! This scrip
    Then edit the `.env` file:
    ```
    GITHUB_USERNAME=your_username
-   GITHUB_PASSWORD=your_password
+   GITHUB_TOKEN=your_personal_access_token
    ```
+   personal token you can get here: `GitHub > Settings > Developer settings > Personal access tokens`<br>
+   https://github.com/settings/tokens
+
+<br>
 
 ## ▶️ How to run
 
