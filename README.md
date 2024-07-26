@@ -55,8 +55,23 @@ Perfect for maintaining a streamlined and relevant network on GitHub! This scrip
    Then edit the `.env` file:
    ```
    GITHUB_USERNAME=your_username
-   GITHUB_PASSWORD=your_password
+   GITHUB_TOKEN=your_token
    ```
+
+## 🔑 Creating a GitHub Personal Access Token
+
+To create a GitHub personal access token:
+
+1. Go to [GitHub Settings](https://github.com/settings/profile).
+2. Click on **Developer settings** in the left sidebar.
+3. Under **Personal access tokens**, click on **Tokens (classic)**.
+4. Click **Generate new token**.
+5. Give your token a descriptive name.
+6. In the **Permissions** section, set the following permissions:
+   - **Followers**: `Access: Read and write`
+7. Click **Generate token**.
+8. Copy the token and add it to your `.env` file as `GITHUB_TOKEN`.
+
 
 ## ▶️ How to run
 
