@@ -6,7 +6,7 @@
 
 ## 📜 Description
 
-The **GitHub Unfollow Script** is a powerful Python tool designed to help you manage your GitHub following list effectively. This script automatically unfollows users who are not following you back, ensuring your network remains relevant and streamlined.
+The **GitHub Unfollow Script** is a magical Python tool designed to help you manage your GitHub following list effectively. This script automatically unfollows users who are not following you back, ensuring your network remains relevant and streamlined.
 
 Perfect for maintaining a streamlined and relevant network on GitHub! This script is for developers and GitHub users who want to keep their following list clean and relevant, automating the tedious task of unfollowing inactive or non-reciprocal followers.
 
